@@ -13,7 +13,7 @@ export function ParallaxStrip() {
           Every plate begins<br/>over the open flame.
         </h2>
         <p className="mt-6 text-white/85 max-w-xl mx-auto hero-text-shadow">
-          From the cast-iron skillet to the Texas oak smoker — we let the fire do the talking.
+          From the cast-iron skillet to the Texas oak smoker — we let the fire and smoke do the talking.
         </p>
       </div>
     </section>
