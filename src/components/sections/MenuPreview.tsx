@@ -8,7 +8,6 @@ export function MenuPreview() {
   const items = MENU.slice(0, 8);
   return (
     <section id="menu" className="relative py-20 md:py-24 bg-secondary/50 border-y border-border/60">
-      <BackgroundLines />
       <div className="relative mx-auto max-w-7xl px-5 md:px-8">
         <SectionHeader
           eyebrow="The Menu"

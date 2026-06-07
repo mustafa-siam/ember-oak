@@ -45,9 +45,9 @@ function MenuPage() {
 
   return (
     <div className="relative">
-      <BackgroundLines />
       <Navbar />
       <main className="relative pt-32 md:pt-40 pb-20 md:pb-28">
+        <BackgroundLines />
         <div className="relative mx-auto max-w-7xl px-5 md:px-8">
           <div className="text-center max-w-2xl mx-auto">
             <div className="flex items-center justify-center gap-3">
